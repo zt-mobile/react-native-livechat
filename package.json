@@ -1,6 +1,6 @@
 {
   "name": "@zt-mobile/react-native-livechat",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "React Native LiveChat SDK",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -34,13 +34,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/LkyYuen/react-native-livechat",
-  "author": "LkyYuen",
+  "repository": "https://github.com/zt-mobile/react-native-livechat",
+  "author": "zt-mobile",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LkyYuen/react-native-livechat/issues"
+    "url": "https://github.com/zt-mobile/react-native-livechat/issues"
   },
-  "homepage": "https://github.com/LkyYuen/react-native-livechat#readme",
+  "homepage": "https://github.com/zt-mobile/react-native-livechat#readme",
   "devDependencies": {
     "@commitlint/config-conventional": "^8.3.4",
     "@react-native-community/bob": "^0.16.2",
