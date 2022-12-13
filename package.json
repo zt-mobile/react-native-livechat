@@ -1,6 +1,6 @@
 {
   "name": "@zt-mobile/react-native-livechat",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "React Native LiveChat SDK",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
