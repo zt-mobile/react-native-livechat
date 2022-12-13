@@ -159,7 +159,8 @@ class RNLiveChatModule(reactContext: ReactApplicationContext) : ReactContextBase
   }
 
   override fun onError(errorType: ChatWindowErrorType?, errorCode: Int, errorDescription: String?): Boolean {
-    TODO("Not yet implemented")
+    return true;
+    // TODO("Not yet implemented")
   }
 
   private fun initChatWindow(configuration: ChatWindowConfiguration) {
